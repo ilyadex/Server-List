@@ -258,5 +258,15 @@
     "version": "Paper 1.16.5",
     "players": 0,
     "motd": "Minecraft ohne Mods§r"
+  },
+  "91.203.232.102": {
+    "version": "Purpur 1.20.6",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.203.236.150": {
+    "version": "Spigot 1.20.4",
+    "players": 0,
+    "motd": "§rA Minecraft Server"
   }
 }
