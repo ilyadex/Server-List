@@ -58,5 +58,120 @@
     "version": "Paper 1.21.5",
     "players": 0,
     "motd": "MegaSky Survival Server"
+  },
+  "91.200.100.20": {
+    "version": "Paper 1.20.2",
+    "players": 1,
+    "motd": "1.20.2§r"
+  },
+  "91.200.100.42": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "\"Welcome to 'Minecraft - The Final Exploration'!\"§r"
+  },
+  "91.200.100.65": {
+    "version": "1.19.2",
+    "players": 2,
+    "motd": "Wenn es laggen sollte, sitzt Lisa auf der Leitung!§r"
+  },
+  "91.200.100.55": {
+    "version": "Paper 1.21",
+    "players": 0,
+    "motd": "§dHey, §r§6Anonymous§r§d! §r§fHast du was zu bauen?\n§r§6Server: §r§bSurvival §r§6| Version: §r§b1.21 §r§6| IP: §r§bgrosslukass.de§r"
+  },
+  "91.200.100.74": {
+    "version": "Velocity 1.7.2-1.21.5",
+    "players": 0,
+    "motd": "§3A simplecloud.app network\n §r"
+  },
+  "91.200.100.101": {
+    "version": "1.12.2",
+    "players": 0,
+    "motd": "§d§oSevTech: Ages Server§r - §4v3.2.3§r"
+  },
+  "91.200.100.155": {
+    "version": "1.21.4",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.200.100.187": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "bussacraft ya get me§r"
+  },
+  "91.200.100.237": {
+    "version": "1.12.2",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
+  },
+  "91.200.101.158": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
+  },
+  "91.200.101.197": {
+    "version": "Paper 1.20.2",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
+  },
+  "91.200.101.198": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "§f§lAllTheMods9: To the Sky server§r"
+  },
+  "91.200.102.29": {
+    "version": "Paper 1.21.4",
+    "players": 0,
+    "motd": "§r§4Hier könnte Ihre Werbung stehen.§r\n§9Nein, keine Ahnung – mir war langweilig.§r"
+  },
+  "91.200.102.163": {
+    "version": "1.20.1",
+    "players": 8,
+    "motd": "All the Mods 9§r"
+  },
+  "91.200.102.171": {
+    "version": "1.21.1",
+    "players": 0,
+    "motd": "Survival und Cobblemon mit den Pepegas\\nPepega Esports"
+  },
+  "91.200.103.19": {
+    "version": "BungeeCord 1.8.x-1.21.x",
+    "players": 0,
+    "motd": "§r         §r§c§o■ §r§8┃ §r L§r e§r g§r a§r c§r y§r G§r a§r m§r i§r n§r g§r §r§8● §r§e §r§8┃ 1.21.4§r§c§o■\n              §r§6§lDein CityBuild Abenteuer§r"
+  },
+  "91.200.103.24": {
+    "version": "Paper 1.21.5",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.200.103.18": {
+    "version": "§4Wartungsarbeiten",
+    "players": 0,
+    "motd": "                §r§l§r§l§r§l§9E§r§l§9n§r§l§9d§r§l§9o§r§l§9r§r§l§di§r§l§da§r§l§dM§r§l§dC§r§l§d.§r§l§5D§r§l§5E§r §r§8| §r§f1.21.4\n        §r§r§r§eCustom Items§r §r§8• §r§r§r§cClaims§r • §r§r§r§dCrates§r • §r§r§r§5Economy§r"
+  },
+  "91.200.103.29": {
+    "version": "Velocity 1.7.2-1.21.4",
+    "players": 0,
+    "motd": "§6◊ §6§lMY SERVER§6 ◊\n§c~(°·°)~§7 | Nobody here yet.§r"
+  },
+  "91.200.103.53": {
+    "version": "1.21.5",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.200.103.238": {
+    "version": "Purpur 1.21.1",
+    "players": 0,
+    "motd": "Local Development Server"
+  },
+  "91.200.103.242": {
+    "version": "Paper 1.21.4",
+    "players": 0,
+    "motd": "§r§c§lG§r§7§lrande§r§c§lC§r§7§lraft.de §r§7§l» §r§c§lWartungen §r§7§l» §r§e§lMC1.21.4 \n§r§7§l» §r§aSurvival §r§7§l| §r§eCityBuild §r§7§l| §r§bFreeBuild§r"
+  },
+  "91.200.110.179": {
+    "version": "1.12.2",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
   }
 }
