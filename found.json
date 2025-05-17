@@ -223,5 +223,30 @@
     "version": "1.20.1",
     "players": 0,
     "motd": "A Minecraft Server§r"
+  },
+  "91.201.230.96": {
+    "version": "1.21.4",
+    "players": 2,
+    "motd": "Le0World"
+  },
+  "91.201.233.39": {
+    "version": "Paper 1.21.4",
+    "players": 0,
+    "motd": "Vanilla+"
+  },
+  "91.201.233.61": {
+    "version": "1.18.2",
+    "players": 0,
+    "motd": "DeceasedCraft§r"
+  },
+  "91.201.233.103": {
+    "version": "1.7.10",
+    "players": 0,
+    "motd": "GT:New Horizons 2.7.4"
+  },
+  "91.202.26.53": {
+    "version": "Paper 1.21.5",
+    "players": 0,
+    "motd": "aaa"
   }
 }
