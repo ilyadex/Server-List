@@ -53,5 +53,10 @@
     "version": "1.20.1",
     "players": 2,
     "motd": "rock and stone or you aint coming home!§r"
+  },
+  "91.200.47.122": {
+    "version": "Paper 1.21.5",
+    "players": 0,
+    "motd": "MegaSky Survival Server"
   }
 }
