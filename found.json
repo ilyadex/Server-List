@@ -248,5 +248,15 @@
     "version": "Paper 1.21.5",
     "players": 0,
     "motd": "aaa"
+  },
+  "91.203.80.201": {
+    "version": "1.21.1",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.203.207.206": {
+    "version": "Paper 1.16.5",
+    "players": 0,
+    "motd": "Minecraft ohne Mods§r"
   }
 }
