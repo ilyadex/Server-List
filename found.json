@@ -173,5 +173,50 @@
     "version": "1.12.2",
     "players": 0,
     "motd": "A Minecraft Server§r"
+  },
+  "91.200.220.15": {
+    "version": "Spigot 1.21.5",
+    "players": 0,
+    "motd": "§rA Minecraft Server"
+  },
+  "91.200.220.40": {
+    "version": "BungeeCord 1.8.x-1.21.x",
+    "players": 0,
+    "motd": "§r         §r§l§r§l§aM§r§l§aC§r§l§a.§r§l§aT§r§l§aE§r§l§aO§r§l§aR§r§l§aI§r§l§aA§r§l§a.§r§l§aR§r§l§aO§r§l§f §r§e[ᴘᴀsᴛᴇ ғᴇʀɪᴄɪᴛ!]§r\n       §r§a⭐§r§a §r§fAm lansat oficial §r§l§r§l§aT§r§l§aE§r§l§aO§r§l§aR§r§l§aI§r§l§aA§r§l§a §r§l§aB§r§l§aO§r§l§aX§r§l§aP§r§l§aV§r§l§aP§r"
+  },
+  "91.200.220.14": {
+    "version": "Spigot 1.21.5",
+    "players": 0,
+    "motd": "§rA Minecraft Server"
+  },
+  "91.200.220.24": {
+    "version": "BungeeCord 1.8.x-1.21.x",
+    "players": 1,
+    "motd": "§r§6§lOryxonMc Network §r§8| §r§7Mai mult decât un server!§r"
+  },
+  "91.200.220.10": {
+    "version": "§a§kA §fғʀᴇsʜ ᴏᴘᴇɴ : §a0/2025",
+    "players": 0,
+    "motd": "§f§f         §2§lPLAY.MCSHOCK.FUN §7[1.8-1.21.5]\n§f  §2§lSPRING UPDATE! §2❣ §fSkyblock a fost §2§lLANSAT!"
+  },
+  "91.200.220.57": {
+    "version": "ASYGAMES NETWORK",
+    "players": 35,
+    "motd": "§f§cAi folosit un ip care nu este permis, foloseste §3asygames.ro§3"
+  },
+  "91.200.220.51": {
+    "version": "1.21.4",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "91.200.220.23": {
+    "version": "FlameCord 1.7.x-1.21.x",
+    "players": 5,
+    "motd": "§f§f       §e⭐ §6§lA§6§ll§6§lf§6§la§6§l §6§l2§6§l.§6§l0§6§l §7● §7By iTitanHosting.Ro §e⭐\n§f       §6⭐ §6§lAM LANSAT!§f Serverul este §epornit! §6⭐"
+  },
+  "91.200.238.45": {
+    "version": "Velocity 1.7.2-1.21.5",
+    "players": 0,
+    "motd": "§fFurrify§r§3 Network§r"
   }
 }
