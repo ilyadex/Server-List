@@ -298,5 +298,30 @@
     "version": "1.20.1",
     "players": 0,
     "motd": "A Minecraft Server§r"
+  },
+  "5.100.132.227": {
+    "version": "1.21.4",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "5.100.135.130": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "§9ATM9sky§c with §6zippi§r"
+  },
+  "5.100.135.135": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "§9ATM9sky§c with §6zippi§r"
+  },
+  "5.100.136.244": {
+    "version": "Paper 1.21.3",
+    "players": 0,
+    "motd": "LinuxGSM"
+  },
+  "5.100.142.160": {
+    "version": "1.19.2",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
   }
 }
