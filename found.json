@@ -268,5 +268,20 @@
     "version": "Spigot 1.20.4",
     "players": 0,
     "motd": "§rA Minecraft Server"
+  },
+  "5.100.39.62": {
+    "version": "1.7.10",
+    "players": 0,
+    "motd": "Testserver fuer Experimente & Co."
+  },
+  "5.100.45.231": {
+    "version": "Paper 1.21.5",
+    "players": 0,
+    "motd": "A Minecraft Server"
+  },
+  "5.100.53.209": {
+    "version": "Paper 1.20.4",
+    "players": 0,
+    "motd": "A Minecraft Server"
   }
 }
