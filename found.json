@@ -283,5 +283,20 @@
     "version": "Paper 1.20.4",
     "players": 0,
     "motd": "A Minecraft Server"
+  },
+  "5.100.106.204": {
+    "version": "1.7.10",
+    "players": 2,
+    "motd": "GT:New Horizons 2.7.4"
+  },
+  "5.100.107.15": {
+    "version": "1.21.5",
+    "players": 0,
+    "motd": "Limexakep"
+  },
+  "5.100.112.240": {
+    "version": "1.20.1",
+    "players": 0,
+    "motd": "A Minecraft Server§r"
   }
 }
